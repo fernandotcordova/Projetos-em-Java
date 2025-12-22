@@ -1,2 +1,2 @@
-# Projetos-em-Java
-Projetos desenvolvidos na linguagem Java
+# Projetos em Java
+- Esse repositório visa conter todos os desenvolvimentos pessoais de aplicações utilizando a linguagem Java 
